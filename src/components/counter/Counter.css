@@ -1,0 +1,25 @@
+.counterButton{
+    font-Size: 30px;
+    background-Color: #ab002e;
+    width: 200px;
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 5px;
+    margin: 10px;
+
+}
+
+.count{
+    font-size: 100px;
+    padding: 20px;
+    color: #44e61f;
+
+}
+
+.totalCount{
+    font-size: 100px;
+    padding: 20px;
+    color: #44e61f;
+}
