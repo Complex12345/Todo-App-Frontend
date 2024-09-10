@@ -39,8 +39,7 @@ export function ListTodosComponent() {
         navigate(`/todo/${id}`)
     }
     function addNewTodo() {
-        navigate(`/todo/`)
-
+        navigate(`/todo/-1`)
     }
 
     return (
